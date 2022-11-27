@@ -1,0 +1,9 @@
+{
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "translucency": false,
+  "cssTheme": "Minimal",
+  "accentColor": "#2bbade",
+  "showViewHeader": true,
+  "nativeMenus": false
+}

@@ -1,0 +1,27 @@
+{
+  "showLineNumber": true,
+  "showUnsupportedFiles": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./attachements",
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 90
+  },
+  "showInlineTitle": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "fr"
+  ],
+  "newLinkFormat": "shortest",
+  "strictLineBreaks": true,
+  "spellcheck": true,
+  "vimMode": false,
+  "useMarkdownLinks": false
+}
